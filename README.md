@@ -20,7 +20,7 @@ The validation period for testing our strategies is set from January 1, 2025, to
 We are currently testing the following two strategies:
 
 1. **XGBoost Strategy**
-   - Detailed in [XGBoost_strategy.ipynb](XGBoost_strategy.ipynb): This notebook outlines our approach using the XGBoost machine learning algorithm to predict price movements and execute trades.
+   - Detailed in [Xgboosting_Strategy_code.ipynb](Xgboosting_Strategy_code.ipynb): This notebook outlines our approach using the XGBoost machine learning algorithm to predict price movements and execute trades.
 
 2. **Volume Profile Strategy**
    - Documented in [VolumeProfile_strategy.ipynb](VolumeProfile_strategy.ipynb): This notebook explains how we use volume profile analysis to identify key price levels for trade execution.
