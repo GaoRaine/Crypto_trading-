@@ -13,7 +13,7 @@ Data for the aforementioned assets has been collected over the period from June 
 
 ## Validation Period
 
-The validation period for testing our strategies is set from January 1, 2025, to February 28, 2025. This timeframe is crucial for assessing the effectiveness of the strategies under different market conditions.
+The validation period for testing our strategies is set from January 1, 2025, to February 28, 2025, while the testing period is set from March 1, 2025 to March 31, 2025. This timeframe is crucial for assessing the effectiveness of the strategies under different market conditions.
 
 ## Trading Strategies
 
